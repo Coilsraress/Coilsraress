@@ -6,5 +6,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![card](https://github-readme-stats.vercel.app/api?Coilsraress=iuricode&theme=Radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?Coilsrarres=iuricode&hide=html&layout=compact&theme=Radical)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=Coilsraress&theme=Radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Coilsraress&hide=html&layout=compact&theme=Radical)](https://github.com/anuraghazra/github-readme-stats)
