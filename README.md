@@ -1,8 +1,8 @@
  <h1 id="salve"> Salve!</h2>
   <div>
      <a href="https://github.com/Coilsraress">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Coilsraress&theme=radical&show_icons=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coilsraress&layout=compact&theme=radical"/>
+     <img height="300" width="500" src="https://github-readme-stats.vercel.app/api?username=Coilsraress&theme=radical&show_icons=true"/>
+     <img height="300" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coilsraress&layout=compact&theme=radical"/>
   </div>
 
  <div style="display: inline_block"><br>
